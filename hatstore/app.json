@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "hatstore",
+    "slug": "hatstore",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/appIcon512x512.png",
+    "splash": {
+      "image": "./assets/icons/splashIcon.png",
+      "resizeMode": "center",
+      "backgroundColor": "#ebab34",
+      "height":"100",
+      "width":"100"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/appIcon512x512.png",
+        "backgroundColor": "#ebab34"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icons/appIcon512x512.png"
+    }
+  }
+}

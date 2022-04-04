@@ -1,0 +1,103 @@
+{
+    "hats": [
+      {
+        "id": 1,
+        "arImage": "https://i.imgur.com/E3slA0d.png",
+        "height": "5%",
+        "articleNumber": "000001",
+        "description": "The bowler hat is a hard felt hat with a rounded crown.",
+        "displayImage": "https://i.imgur.com/E3slA0d.png",
+        "name": "Bowler Hat",
+        "price": 485,
+        "type": "Hat"
+      },
+      {
+        "id": 2,
+        "arImage": "https://i.imgur.com/5PnWbNG.png",
+        "height": "25%",
+        "articleNumber": "000002",
+        "description": "A beret with a soft, round, flat-crowned cap of hand-knitted wool.",
+        "displayImage": "https://i.imgur.com/5PnWbNG.png",
+        "name": "Black Beret",
+        "price": 349,
+        "type": "Hat"
+      },
+      {
+        "id": 3,
+        "arImage": "https://i.imgur.com/LjHfOrB.png",
+        "height": "50%",
+        "articleNumber": "000003",
+        "description": "A hat with a soft brim and indented crown.",
+        "displayImage": "https://i.imgur.com/LjHfOrB.png",
+        "name": "Brown Fedora",
+        "price": 719,
+        "type": "Hat"
+      },
+      {
+        "id": 4,
+        "arImage": "https://i.imgur.com/XEwuRKF.png",
+        "height": "25%",
+        "articleNumber": "000004",
+        "description": "A classic cap in a dark blue color.",
+        "displayImage": "https://i.imgur.com/XEwuRKF.png",
+        "name": "New Era 940",
+        "price": 299,
+        "type": "Cap"
+      },
+      {
+        "id": 5,
+        "arImage": "https://i.imgur.com/BPGQOFm.png",
+        "height": "25%",
+        "articleNumber": "000005",
+        "description": "A trucker-style cap from patagonia.",
+        "displayImage": "https://i.imgur.com/BPGQOFm.png",
+        "name": "Patagonia P-6",
+        "price": 399,
+        "type": "Cap"
+      },
+      {
+        "id": 6,
+        "arImage": "https://i.imgur.com/X4DzX5X.png",
+        "height": "25%",
+        "articleNumber": "000006",
+        "description": "A classic cap in a red color.",
+        "displayImage": "https://i.imgur.com/X4DzX5X.png",
+        "name": "New Era 960",
+        "price": 349,
+        "type": "Cap"
+      },
+      {
+        "id": 7,
+        "arImage": "https://i.imgur.com/5yg8yvz.png",
+        "height": "25%",
+        "articleNumber": "000007",
+        "description": "A black beanie from pantagonia.",
+        "displayImage": "https://i.imgur.com/5yg8yvz.png",
+        "name": "Patagonia Knithat",
+        "price": 249,
+        "type": "Knithat"
+      },
+      {
+        "id": 8,
+        "arImage": "https://i.imgur.com/MAV5DO7.png",
+        "height": "25%",
+        "articleNumber": "000008",
+        "description": "Gray beanie from the north face.",
+        "displayImage": "https://i.imgur.com/MAV5DO7.png",
+        "name": "North Face Knithat",
+        "price": 249,
+        "type": "Knithat"
+      },
+      {
+        "id": 9,
+        "arImage": "https://i.imgur.com/e7qUtP0.png",
+        "height": "25%",
+        "articleNumber": "000009",
+        "description": "A black beanie with a red polo logo.",
+        "displayImage": "https://i.imgur.com/e7qUtP0.png",
+        "name": "Polo Knithat",
+        "price": 429,
+        "type": "Knithat"
+      }
+    ]
+  }
